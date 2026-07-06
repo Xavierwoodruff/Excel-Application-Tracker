@@ -10,22 +10,22 @@ Developed an Excel job application tracking system utilizing structured tables, 
 <h2>Skills Utilized</h2>
 
 - <b>Excel Tables</b>
-- <b>Data validation</b>
-- <b>Conditional formatting</b>
+- <b>Data Validation</b>
+- <b>Conditional Formatting</b>
 - <b>Formula Development</b>
 - <b>TODAY(), SUM()</b>
-- <b>Excel table</b>
-- <b>Freeze panes</b>
+- <b>Excel Table</b>
+- <b>Freeze Panes</b>
 - <b>Data Organization</b>
 
 
 <h2>Features</h2>
 
-- <b>Tracks Job applications</b>
+- <b>Tracks Job Applications</b>
 - <b>Structured Excel Tables</b>
-- <b>Automatically tracks days since applying</b>
-- <b>Drop down menus with pretaining info</b>
-- <b>Status indicators using Conditional Formatting</b>
+- <b>Automatically Tracks days since Applying</b>
+- <b>Drop Down menus with pretaining info</b>
+- <b>Status Indicators using Conditional Formatting</b>
 
   
 <h2>Program walk-through:</h2>
