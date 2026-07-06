@@ -8,6 +8,7 @@ Developed an Excel job application tracking system utilizing structured tables, 
 
 
 <h2>Skills Utilized</h2>
+
 - <b>Microsoft Excel</b>
 - <b>Data validation drop-downs</b>
 - <b>Formula Development</b>
@@ -18,6 +19,7 @@ Developed an Excel job application tracking system utilizing structured tables, 
 
 
 <h2>Features</h2>
+
 - <b>Tracks Job applications</b>
 - <b>Structured Excel Tables</b>
 - <b>Automatically tracks days since applying</b>
