@@ -40,6 +40,6 @@ Data validation drop-downs: <br/>
 <br />
 <br />
 Conditional Formatting & Formula's  <br/>
-<img src="https://imgur.com/zmHWfoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JOnbsiJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
