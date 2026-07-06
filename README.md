@@ -9,12 +9,13 @@ Developed an Excel job application tracking system utilizing structured tables, 
 
 <h2>Skills Utilized</h2>
 
-- <b>Microsoft Excel</b>
-- <b>Data validation drop-downs</b>
+- <b>Excel Tables</b>
+- <b>Data validation</b>
+- <b>Conditional formatting</b>
 - <b>Formula Development</b>
+- <b>TODAY(),SUM()</b>
 - <b>Excel table</b>
 - <b>Freeze panes</b>
-- <b>Conditional formatting</b>
 - <b>Data Organization</b>
 
 
