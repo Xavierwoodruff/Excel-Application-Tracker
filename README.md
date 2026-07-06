@@ -24,27 +24,14 @@ Developed an Excel job application tracking system utilizing structured tables, 
 
 <p align="center">
 Created Table: <br/>
-<img src="https://imgur.com/TcwGJO4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/pGG5Ti8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Data validation drop-downs: <br/>
-<img src="https://imgur.com/a/K4LmsxM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/UvrZ2Ba.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Cleansed Data:  <br/>
-<img src="https://imgur.com/k4X8J1P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Conditional Formatting & Formula's  <br/>
+<img src="https://imgur.com/zmHWfoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Created Views:  <br/>
-<img src="https://imgur.com/sMlFJgN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Connected Database to Power BI:  <br/>
-<img src="https://imgur.com/DJ2xBsF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Completed Visuals:  <br/>
-<img src="https://imgur.com/Q0rawCa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</p>
