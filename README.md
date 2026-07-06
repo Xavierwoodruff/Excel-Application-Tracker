@@ -13,7 +13,7 @@ Developed an Excel job application tracking system utilizing structured tables, 
 - <b>Data validation</b>
 - <b>Conditional formatting</b>
 - <b>Formula Development</b>
-- <b>TODAY(),SUM()</b>
+- <b>TODAY(), SUM()</b>
 - <b>Excel table</b>
 - <b>Freeze panes</b>
 - <b>Data Organization</b>
