@@ -13,7 +13,7 @@ Developed an Excel job application tracking system utilizing structured tables, 
 - <b>Data Validation</b>
 - <b>Conditional Formatting</b>
 - <b>Formula Development</b>
-- <b>TODAY(), SUM()</b>
+- <b>TODAY(), SUM(), MAX()</b>
 - <b>Excel Table</b>
 - <b>Freeze Panes</b>
 - <b>Data Organization</b>
@@ -26,6 +26,7 @@ Developed an Excel job application tracking system utilizing structured tables, 
 - <b>Automatically Tracks days since Applying</b>
 - <b>Drop Down menus with pretaining info</b>
 - <b>Status Indicators using Conditional Formatting</b>
+- <b>Dynamic MAX() Formula for the Salary column</b>
 
   
 <h2>Program walk-through:</h2>
